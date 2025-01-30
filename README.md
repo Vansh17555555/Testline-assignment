@@ -91,8 +91,6 @@ Each quiz includes:
 
 ## 🎥 Demo Video
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/Vansh17555555/Testline-assignment/master/assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[🎥 Watch the Demo Video](https://github.com/Vansh17555555/Testline-assignment/raw/master/assets/demo.mp4)
+
 
