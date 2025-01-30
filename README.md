@@ -5,19 +5,19 @@ A modern, interactive quiz application built with Next.js and TypeScript.
 ## User Interface
 
 ### Quiz Start Screen
-![Quiz Start Screen](assets/ui1.png)
+![Quiz Start Screen](assets/ui5.png)
 
 ### Question Interface
-![Question Interface](assets/ui2.png)
+![Question Interface](assets/ui4.png)
 
 ### Answer Feedback
-![Answer Feedback](assets/ui3.png)
+![Answer Feedback](assets/ui2.png)
 
 ### Study Material
-![Study Material](assets/ui4.png)
+![Study Material](assets/ui3.png)
 
 ### Results Screen
-![Results Screen](assets/ui5.png)
+![Results Screen](assets/ui2.png)
 
 ## 🌟 Features
 
