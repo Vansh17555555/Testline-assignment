@@ -91,6 +91,6 @@ Each quiz includes:
 
 ## 🎥 Demo Video
 
-https://github.com/Vansh17555555/testline-assignment/assets/demo.mp4
+[🎥 Watch the Demo Video](https://github.com/Vansh17555555/Testline-assignment/raw/master/assets/demo.mp4)
 
 
