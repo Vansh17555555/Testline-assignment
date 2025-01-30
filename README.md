@@ -91,7 +91,7 @@ Each quiz includes:
 
 ## 🎥 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/Vansh17555555/Testline-assignment/blob/master/assets/demo.webm)
+[![Demo Video]](https://github.com/Vansh17555555/Testline-assignment/blob/master/assets/demo.webm)
 
 
 
