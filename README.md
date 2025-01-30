@@ -90,10 +90,8 @@ Each quiz includes:
 - Navigation controls
 
 ## 🎥 Demo Video
-<video width="640" height="360" controls>
-  <source src="https://github.com/Vansh17555555/Testline-assignment/assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/Vansh17555555/Testline-assignment/blob/master/assets/demo.webm)
 
 
 
